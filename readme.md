@@ -36,7 +36,7 @@ Two different cases with different geometry and boundary conditions:
 - Case 1: Rectangular plates simply supported on four sides.
 - Case 2: Rectangular plates simply supported on two opposite sides and free on the other two opposite sides.
 
-# Strength domain of reinforced section
+# Strength domain of reinforced concrete section
 ## Lower bound by a static approach
 
 ## Upper bound by a kinematic approach
