@@ -1,0 +1,6 @@
+job1 =batch('kinematic_study1_KL','AdditionalPaths','F:\13.Code\Git\PlateAnalysis\1.Temperature\SafirFile')
+job2 =batch('kinematic_study1_VK','AdditionalPaths','F:\13.Code\Git\PlateAnalysis\1.Temperature\SafirFile')
+job3 =batch('kinematic_study2_KL','AdditionalPaths','F:\13.Code\Git\PlateAnalysis\1.Temperature\SafirFile')
+job4 =batch('kinematic_study2_VK','AdditionalPaths','F:\13.Code\Git\PlateAnalysis\1.Temperature\SafirFile')
+job5 =batch('kinematic_study3_KL','AdditionalPaths','F:\13.Code\Git\PlateAnalysis\1.Temperature\SafirFile')
+job6 =batch('kinematic_study3_VK','AdditionalPaths','F:\13.Code\Git\PlateAnalysis\1.Temperature\SafirFile')

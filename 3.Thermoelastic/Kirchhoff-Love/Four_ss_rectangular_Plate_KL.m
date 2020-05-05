@@ -13,7 +13,7 @@ CHI_SS = Input.Properties.CHI_SS; % thermal curvature
 % Input.SolParam.N=50;
 Mmax = Input.SolParam.M;
 Nmax = Input.SolParam.N;
-N=200;
+N=100;
 
 dx=a/N;
 dy=b/N;

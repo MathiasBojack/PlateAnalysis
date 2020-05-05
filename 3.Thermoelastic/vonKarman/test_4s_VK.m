@@ -1,6 +1,6 @@
-Input.Geometry.a    = 12;
-Input.Geometry.b    = 12;
-Input.Geometry.h    = 0.15;
+Input.Geometry.a    = 10;
+Input.Geometry.b    = 10;
+Input.Geometry.h    = 0.1;
 Input.Properties.Nu = 0.2;
 Input.Properties.E  = 19.2e9;
 Input.Load.Time     = 7200;

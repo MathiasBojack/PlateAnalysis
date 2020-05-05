@@ -13,7 +13,7 @@ h    = Input.Geometry.h;
 
 % Add temperature dependent elastic properties as attributes of Input param
 Input = dim_Prop_Cal( Input);
-
+%     Input.Properties.CHI_SS = 0.0515;
 M=20;
 N=20;
 MN=M*N;
